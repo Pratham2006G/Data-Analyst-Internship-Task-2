@@ -1,0 +1,11 @@
+INSIGHTS – AMAZON SALES DATA ANALYSIS
+
+1. Electronics and Computer Accessories categories contribute the highest share of total discounted sales, indicating strong customer demand for tech-related products.
+
+2. Categories with heavy discounts show higher sales volume, suggesting that pricing strategy plays a crucial role in purchasing decisions.
+
+3. Some product categories maintain good average ratings but relatively lower sales, highlighting opportunities for better promotion and visibility.
+
+4. Customer ratings vary significantly across categories, which can directly influence trust and buying behavior.
+
+5. Balancing competitive pricing with product quality can help improve both sales performance and customer satisfaction.
